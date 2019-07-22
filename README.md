@@ -1,3 +1,6 @@
+Live:    
+https://sonakshs.github.io/tour-and-travel-app/    
+
 (development server)
 cd into project directory  
 `npm i`  
