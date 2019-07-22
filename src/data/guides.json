@@ -1,44 +1,44 @@
 {
-    "guides": [
-        {
-            "name": "101 Best Things to Do in Sri Lanka",
-            "desc": "",
-            "imgSrc": "../../images/guide1.jpg"
-        },
-        {
-            "name":"101 Best Places to Visit in Sri Lanka",
-            "desc": "",
-            "imgSrc": "../../images/guide2.jpg"
-        },
-        {
-            "name":"20 Best Sri Lanka Beaches",
-            "desc": "",
-            "imgSrc": "../../images/guide3.jpg"
-        },
-        {
-            "name":"40 Best Sri Lanka Resorts",
-            "desc": "",
-            "imgSrc": "../../images/guide4.jpg"
-        },
-        {
-            "name":"10 Ayurveda in Sri Lanka",
-            "desc": "",
-            "imgSrc": "../../images/guide5.jpg"
-        },
-        {
-            "name":"15 Beach Resorts in Sri Lanka for a Glorious Beach Getaway",
-            "desc": "",
-            "imgSrc": "../../images/guide6.jpg"
-        },
-        {
-            "name": "15 Luxury Resorts in Sri Lanka",
-            "desc": "",
-            "imgSrc": "../../images/guide7.jpg"
-        },
-        {
-            "name":"20 Best Water Sports in Sri Lanka",
-            "desc": "",
-            "imgSrc": "../../images/guide8.jpg"
-        }
-    ]
+  "guides": [
+    {
+      "name": "101 Best Things to Do in Sri Lanka",
+      "desc": "",
+      "imgSrc": "images/guide1.jpg"
+    },
+    {
+      "name": "101 Best Places to Visit in Sri Lanka",
+      "desc": "",
+      "imgSrc": "images/guide2.jpg"
+    },
+    {
+      "name": "20 Best Sri Lanka Beaches",
+      "desc": "",
+      "imgSrc": "images/guide3.jpg"
+    },
+    {
+      "name": "40 Best Sri Lanka Resorts",
+      "desc": "",
+      "imgSrc": "images/guide4.jpg"
+    },
+    {
+      "name": "10 Ayurveda in Sri Lanka",
+      "desc": "",
+      "imgSrc": "images/guide5.jpg"
+    },
+    {
+      "name": "15 Beach Resorts in Sri Lanka for a Glorious Beach Getaway",
+      "desc": "",
+      "imgSrc": "images/guide6.jpg"
+    },
+    {
+      "name": "15 Luxury Resorts in Sri Lanka",
+      "desc": "",
+      "imgSrc": "images/guide7.jpg"
+    },
+    {
+      "name": "20 Best Water Sports in Sri Lanka",
+      "desc": "",
+      "imgSrc": "images/guide8.jpg"
+    }
+  ]
 }

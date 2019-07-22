@@ -16,7 +16,7 @@ class Footer extends Component {
               <img
                 href=""
                 style={{ height: "5em", margin: "0 0 1em 2em" }}
-                src="../../../images/logo.png"
+                src="images/logo.png"
                 alt="Logo"
               />
             </div>

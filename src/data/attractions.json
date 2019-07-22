@@ -6,7 +6,7 @@
       "desc": "",
       "link": "/",
       "price": "2500",
-      "imgSrc": "../../../images/att1.jpg",
+      "imgSrc": "images/att1.jpg",
       "more": "2"
     },
     {
@@ -15,7 +15,7 @@
       "desc": "",
       "link": "/",
       "price": "3743",
-      "imgSrc": "../../../images/att2.jpg",
+      "imgSrc": "images/att2.jpg",
       "more": "1"
     },
     {
@@ -24,7 +24,7 @@
       "desc": "",
       "link": "/",
       "price": "75000",
-      "imgSrc": "../../../images/att3.jpg",
+      "imgSrc": "images/att3.jpg",
       "more": "1"
     },
     {
@@ -33,7 +33,7 @@
       "desc": "",
       "link": "/",
       "price": "5444",
-      "imgSrc": "../../../images/att4.jpg",
+      "imgSrc": "images/att4.jpg",
       "more": "1"
     },
     {
@@ -42,7 +42,7 @@
       "activity": "Advanced Open Water Diving Course in Colombo",
       "link": "/",
       "price": "23815",
-      "imgSrc": "../../../images/att5.jpg",
+      "imgSrc": "images/att5.jpg",
       "more": "1"
     },
     {
@@ -51,7 +51,7 @@
       "desc": "",
       "link": "/",
       "price": "23815",
-      "imgSrc": "../../../images/att6.jpg",
+      "imgSrc": "images/att6.jpg",
       "more": "1"
     },
     {
@@ -60,7 +60,7 @@
       "desc": "",
       "link": "/",
       "price": "23815",
-      "imgSrc": "../../../images/att7.jpg",
+      "imgSrc": "images/att7.jpg",
       "more": "1"
     },
     {
@@ -69,7 +69,7 @@
       "desc": "",
       "link": "/",
       "price": "23815",
-      "imgSrc": "../../../images/att8.jpg",
+      "imgSrc": "images/att8.jpg",
       "more": "1"
     }
   ]

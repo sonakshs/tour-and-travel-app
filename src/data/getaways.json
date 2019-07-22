@@ -1,34 +1,34 @@
 {
-    "getaways": [
-        {
-            "text":"Galle",
-            "listings":"16",
-            "imgSrc": "../../images/getaway1.jpg"
-        },
-        {
-            "text":"Mirissa",
-            "listings":"12",
-            "imgSrc": "../../images/getaway2.jpg"
-        },
-        {
-            "text":"Kandy",
-            "listings":"10",
-            "imgSrc": "../../images/getaway3.jpg"
-        },
-        {
-            "text":"Dambulla",
-            "listings":"7",
-            "imgSrc": "../../images/getaway4.jpg"
-        },
-        {
-            "text":"Bentota",
-            "listings":"6",
-            "imgSrc": "../../images/getaway5.jpg"
-        },
-        {
-            "text":"Kitulgala",
-            "listings":"5",
-            "imgSrc": "../../images/getaway6.jpg"
-        }
-    ]
+  "getaways": [
+    {
+      "text": "Galle",
+      "listings": "16",
+      "imgSrc": "images/getaway1.jpg"
+    },
+    {
+      "text": "Mirissa",
+      "listings": "12",
+      "imgSrc": "images/getaway2.jpg"
+    },
+    {
+      "text": "Kandy",
+      "listings": "10",
+      "imgSrc": "images/getaway3.jpg"
+    },
+    {
+      "text": "Dambulla",
+      "listings": "7",
+      "imgSrc": "images/getaway4.jpg"
+    },
+    {
+      "text": "Bentota",
+      "listings": "6",
+      "imgSrc": "images/getaway5.jpg"
+    },
+    {
+      "text": "Kitulgala",
+      "listings": "5",
+      "imgSrc": "images/getaway6.jpg"
+    }
+  ]
 }
