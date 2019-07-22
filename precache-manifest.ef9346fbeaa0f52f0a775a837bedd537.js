@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d0305ee230ec2c76abd3f472c705cefc",
+    "revision": "c62b64d8b06a707b99c2c10b99e6a707",
     "url": "/tour-and-travel-app/index.html"
   },
   {
-    "revision": "551850d897800072a202",
+    "revision": "fb1dfc5a908213f091e5",
     "url": "/tour-and-travel-app/static/css/main.c5bda5a7.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tour-and-travel-app/static/js/2.60e46ddf.chunk.js"
   },
   {
-    "revision": "551850d897800072a202",
-    "url": "/tour-and-travel-app/static/js/main.78e2da0d.chunk.js"
+    "revision": "fb1dfc5a908213f091e5",
+    "url": "/tour-and-travel-app/static/js/main.0f3daa19.chunk.js"
   },
   {
     "revision": "3b209514e111ace87aa9",
