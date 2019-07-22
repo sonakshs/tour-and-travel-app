@@ -1,0 +1,82 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+a {
+  cursor: pointer;
+}
+a:hover {
+  text-decoration: none !important;
+  color: #f8ad33;
+}
+
+.header-text {
+  font-size: 21px;
+  color: #000;
+  margin-bottom: 10px;
+  text-align: left;
+}
+.site-nav {
+  z-index: 2;
+  position: absolute;
+  width: 100%;
+  padding: 10px 20px;
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+}
+.site-nav .navbar-right {
+  padding-top: 20px;
+}
+.site-nav .navbar-right > ul > li > a {
+  padding-top: 0;
+  padding-bottom: 0;
+  color: #fff;
+}
+.site-nav .navbar-right > ul > li > a:focus,
+.site-nav .navbar-right > ul > li > a:hover {
+  color: #fff !important;
+  background: transparent;
+}
+.site-nav .navbar-right > ul > li .dropdown-menu {
+  top: 30px;
+}
+.site-nav .navbar-right > ul > li .dropdown-menu:before {
+  right: 40px;
+}
+.site-nav .navbar-right > ul > li .dropdown-menu:after {
+  right: 40px;
+}
+.site-logo {
+  margin: 1em;
+  max-height: 45px;
+}
+.nav-element {
+  color: #fff !important;
+  font-size: 14px;
+  margin: 0px 7px;
+  padding: 0 5px;
+  background-color: transparent;
+  height: 30px;
+  line-height: 60px;
+}
+.nav-element:hover {
+  color: #f8ad33 !important;
+}
+.sign-in-button {
+  border: 1px solid #f8ad33;
+  border-radius: 7px;
+  width: 74px;
+  height: 33px;
+  line-height: 33px;
+  text-align: center;
+  font-size: 14px;
+  color: #fff !important;
+  background-color: #ff9933;
+  display: table-cell !important;
+  vertical-align: super;
+}
+.sign-in-button:hover {
+  background-color: #f8ad33 !important;
+  color: #fff !important;
+}

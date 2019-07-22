@@ -1,0 +1,87 @@
+.card-custom{
+    border-radius: 2px;
+    display: block;
+    margin: 1em 0;
+}
+.unhovered-card{
+    display: block;
+    width: 100%;
+}
+.hovered-card{
+    display: block;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    max-height: 409px;
+    padding: 1em;
+    text-align: left;
+    background-color: #f7f5f8;
+}
+.card-image{
+    max-width: 100%;
+    max-height: 300px;
+}
+.text-hovered{
+    color: #898e95;
+    font-size: 0.9em;
+    line-height: 1.5em
+}
+.book-now-button{
+    color: #fff;
+    background-color: #fea246;
+    margin-top: 1em;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    border: 1px solid transparent;
+    padding: 6px 12px;
+    border-radius: 4px;
+    user-select: none;
+}
+.custom-height{
+    display: block;
+    padding: 0 0.5em;
+    margin: 0 1em;
+    border-radius: 2px;
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14), 0 1px 5px 0 rgba(0,0,0,0.12), 0 3px 1px -2px rgba(0,0,0,0.2);
+    text-align: left;
+}
+.custom-header{
+    padding-top: 0.5em;
+    text-align: left;
+    height: 2.5em;
+    font-weight: 500
+}
+.custom-header-hovered{
+    font-size: 1.2em;
+    height: 3em;
+}
+.price{
+    font-size: 20px;
+    color: #000;
+    margin: 0
+}
+.price-before{
+    color: #d3d3d3;
+    font-size: 17px
+}
+.rupee-symbol{
+    font-size: 15px;
+    opacity: 0.9;
+}
+.star-filled{
+    color: #fecb19;
+}
+.star-unfilled{
+    color: #d3d3d3;
+}
+.review{
+    text-align: right;
+    color: #7d7d7d
+}

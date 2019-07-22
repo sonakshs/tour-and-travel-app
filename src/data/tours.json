@@ -1,0 +1,77 @@
+{
+    "tours": [
+        {
+            "imgSrc": "../../images/tours1.jpg",
+            "name": "Blue Whale Watching Tour in Bentota and Koggala",
+            "desc": "",
+            "price": "7500",
+            "stars": "4",
+            "ratings": "37"
+        },
+        {
+            "imgSrc": "../../images/tours2.jpg",
+            "name": "Mountain Bike Ride in Sri Lanka",
+            "desc": "",
+            "price": "1200",
+            "stars": "5",
+            "ratings": "124"
+        },
+        {
+            "imgSrc": "../../images/tours3.jpg",
+            "name": "Scenic Tour of Colombo in Air Plane",
+            "desc": "",
+            "price": "35000",
+            "stars": "4",
+            "ratings": "7"
+        },
+        {
+            "imgSrc": "../../images/tours4.jpg",
+            "name": "Elephant Safari and Village Tour in Habarana",
+            "desc": "",
+            "price": "1200",
+            "stars": "4",
+            "ratings": "118"
+        },
+        {
+            "imgSrc": "../../images/tours9.jpg",
+            "name": "Dive Course With Stay at Colombo in Srilanka",
+            "desc": "",
+            "price": "12999",
+            "stars": "5",
+            "ratings": "15"
+        },
+        {
+            "imgSrc": "../../images/tours6.jpg",
+            "name": "Luxury Camp Safari at Wilptoursu in Sri Lanka",
+            "desc": "",
+            "price": "9999",
+            "stars": "5",
+            "ratings": "5"
+        },
+        {
+            "imgSrc": "../../images/tours7.jpg",
+            "name": "Sailing in Bentota in Sri Lanka",
+            "desc": "",
+            "price": "12000",
+            "stars": "5",
+            "ratings": "4"
+        },
+        {
+            "imgSrc": "../../images/tours8.jpg",
+            "name": "Excursion to Riverston Gap in Sri Lanka",
+            "desc": "",
+            "price": "16300",
+            "stars": "4",
+            "ratings": "19"
+        },
+        {
+            "imgSrc": "../../images/tours9.jpg",
+            "name": "Dive Course With Stay at Colombo in Srilanka",
+            "desc": "",
+            "price": "9999",
+            "stars": "4",
+            "ratings": "25"
+        }
+    ]
+}
+

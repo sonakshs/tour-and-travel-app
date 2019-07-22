@@ -1,0 +1,33 @@
+.questionAnswersDiv {
+    text-align: left !important;
+}
+.cursorPointer{
+    cursor: pointer;
+}
+.list-in-QA{
+    margin-top: 15px;
+    margin-left: -2.5em;
+    color: #333;
+    list-style-type: none;
+}
+.black-text{
+    color: #000;
+    font-size: 1.01em;
+}
+.collapsible-heading{
+    display: block;
+    cursor: pointer;
+    min-height: 3rem;
+    padding-top: 2px;
+    padding-right: 1rem;
+    padding-bottom: 15px;
+    padding-left: 1rem;
+    background-color: #fff;
+    border-bottom: 0.5px solid #ddd !important;
+    padding-bottom: 15px;
+    font-size: 16px;
+}
+.panel-custom{
+    display: block;
+    margin-top: 30px !important;
+}

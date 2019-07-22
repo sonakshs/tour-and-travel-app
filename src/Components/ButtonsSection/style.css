@@ -1,0 +1,31 @@
+.buttons-section{
+    display: block;
+    text-align: left;
+    margin-bottom: 30px
+}
+.buttons-section-button{
+    text-decoration: none;
+    padding: 6px 12px;
+    border: 1px solid #d3d3d3;
+    color: #fea246 !important;
+    font-size: 13px !important;
+    border-radius: 3px;
+    opacity: 1 !important;
+    display: inline-block;
+    margin:0 0.6em 0.6em 0;
+    font-weight: normal;
+    text-align: center;
+    cursor: pointer;
+    background-image: none;
+    white-space: nowrap;
+    line-height: 1.428571429;
+}
+.buttons-section-button:hover{
+    background-color: #fea246 !important;
+    color: #fff !important;
+}
+.header-text{
+    font-size: 21px;
+    color: #000;
+    margin-bottom: 10px;
+}

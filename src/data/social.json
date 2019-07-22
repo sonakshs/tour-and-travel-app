@@ -1,0 +1,38 @@
+{
+  "1": {
+    "class": "footer_social_icon",
+    "link": "https://facebook.com/sonakshsaraswat",
+    "imgScr": "../../images/facebook.png",
+    "alt": "FB"
+  },
+  "2": {
+    "class": "footer_social_icon",
+    "link": "mailto:sonaksh.cse15@nituk.ac.in",
+    "imgScr": "../../images/google.png",
+    "alt": "G"
+  },
+  "3": {
+    "class": "footer_social_icon",
+    "link": "https://www.linkedin.com/in/sonaksh",
+    "imgScr": "../../images/in.png",
+    "alt": "IN"
+  },
+  "4": {
+    "class": "footer_social_icon",
+    "link": "https://twitter.com/sonakshsaraswat",
+    "imgScr": "../../images/twitter.png",
+    "alt": "Twitter"
+  },
+  "5": {
+    "class": "footer_social_icon",
+    "link": "https://github.com/sonakshs",
+    "imgScr": "../../images/github.png",
+    "alt": "Pin"
+  },
+  "6": {
+    "class": "footer_social_icon",
+    "link": "https://www.instagram.com/sonaksh_s/",
+    "imgScr": "../../images/instagram.png",
+    "alt": "`IG`"
+  }
+}

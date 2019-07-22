@@ -1,0 +1,76 @@
+{
+  "attractions": [
+    {
+      "name": "Galle Face Green Beach",
+      "activity": "Day Safari at Galle in Sri Lanka",
+      "desc": "",
+      "link": "/",
+      "price": "2500",
+      "imgSrc": "../../../images/att1.jpg",
+      "more": "2"
+    },
+    {
+      "name": "Bentota Beach",
+      "activity": "Blue Whale Watching Tour in Bentota and Koggala",
+      "desc": "",
+      "link": "/",
+      "price": "3743",
+      "imgSrc": "../../../images/att2.jpg",
+      "more": "1"
+    },
+    {
+      "name": "Mount Lavinia Beach",
+      "activity": "Advanced Open Water Diving Course in Colombo",
+      "desc": "",
+      "link": "/",
+      "price": "75000",
+      "imgSrc": "../../../images/att3.jpg",
+      "more": "1"
+    },
+    {
+      "name": "Hikkaduwa Beach",
+      "activity": "4 Hours Scuba Diving at Hikkaduwa in Srilanka",
+      "desc": "",
+      "link": "/",
+      "price": "5444",
+      "imgSrc": "../../../images/att4.jpg",
+      "more": "1"
+    },
+    {
+      "name": "Gangaramaya Temple",
+      "desc": "",
+      "activity": "Advanced Open Water Diving Course in Colombo",
+      "link": "/",
+      "price": "23815",
+      "imgSrc": "../../../images/att5.jpg",
+      "more": "1"
+    },
+    {
+      "name": "Dickwella Beach",
+      "activity": "Advanced Open Water Diving Course in Colombo",
+      "desc": "",
+      "link": "/",
+      "price": "23815",
+      "imgSrc": "../../../images/att6.jpg",
+      "more": "1"
+    },
+    {
+      "name": "Dehiwala Zoo",
+      "activity": "Advanced Open Water Diving Course in Colombo",
+      "desc": "",
+      "link": "/",
+      "price": "23815",
+      "imgSrc": "../../../images/att7.jpg",
+      "more": "1"
+    },
+    {
+      "name": "National Museum",
+      "activity": "Advanced Open Water Diving Course in Colombo",
+      "desc": "",
+      "link": "/",
+      "price": "23815",
+      "imgSrc": "../../../images/att8.jpg",
+      "more": "1"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+    "experiences": [
+        {
+            "text":"Sightseeing",
+            "listings":"23",
+            "imgSrc": "../../images/exp1.jpg"
+        },
+        {
+            "text":"Adventure",
+            "listings":"42",
+            "imgSrc": "../../images/exp2.jpg"
+        },
+        {
+            "text":"Attractions",
+            "listings":"57",
+            "imgSrc": "../../images/exp3.jpg"
+        },
+        {
+            "text":"Nature",
+            "listings  ":"29",
+            "imgSrc": "../../images/exp4.jpg"
+        },
+        {
+            "text":"Day Outs",
+            "listings":"12",
+            "imgSrc": "../../images/exp5.jpg"
+        },
+        {
+            "text":"Trekking",
+            "listings":"12",
+            "imgSrc": "../../images/exp7.jpg"
+        },
+        {
+            "text":"Boating",
+            "listings":"10",
+            "imgSrc": "../../images/exp8.jpg"
+        },
+        {
+            "text":"Water Sports",
+            "listings":"9",
+            "imgSrc": "../../images/exp9.jpg"
+        },
+        {
+            "text":"Jeep Safari",
+            "listings":"9",
+            "imgSrc": "../../images/exp10.jpg"
+        },
+        {
+            "text":"Scuba Diving",
+            "listings":"8",
+            "imgSrc": "../../images/exp11.jpg"
+        },
+        {
+            "text":"Elephant Safari",
+            "listings":"7",
+            "imgSrc": "../../images/exp12.jpg"
+        },
+        {
+            "text":"Attractions",
+            "listings":"27",
+            "imgSrc": "../../images/exp3.jpg"
+        },
+        {
+            "text":"Nature and Wildlife",
+            "listings":"23",
+            "imgSrc": "../../images/exp4.jpg"
+        }
+    ]
+}

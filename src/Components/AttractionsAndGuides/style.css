@@ -1,0 +1,36 @@
+.fixed-dim-image{
+    width: 100%;
+
+}
+.card-header-text-guides{
+    color: #000;
+    height: 2.5em;
+    padding: 0.5em;
+    font-size: 1.1em;
+    font-weight: 540;
+    cursor: pointer;
+    margin-bottom: 0
+}
+.card-text-guides{
+    color: #898e95;
+    padding: 0.5em;
+    height: 6em;
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    margin-top: 5px;
+    font-size: 0.9em;
+    cursor: pointer;
+}
+.card-custom{
+    cursor: pointer;
+    height: auto;
+    padding: 0 0 1em 0;
+}
+.margin-right{
+    margin-right: 0.5em;
+}
+.box-shadow{
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14), 0 1px 5px 0 rgba(0,0,0,0.12), 0 3px 1px -2px rgba(0,0,0,0.2);
+    text-align: left;
+}

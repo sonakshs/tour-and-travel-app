@@ -1,0 +1,30 @@
+{
+  "1": {
+    "dataSlide": 0,
+    "heading": "SRILANKA",
+    "text": "Experiential journeys will make you a storyteller",
+    "src": "https://d3u4hzlr7ozpoo.cloudfront.net/assets/banner-image-tours-ef50aa6ecfaf707fcc3ac0b73f418209.jpg"
+  },
+  "2": {
+    "dataSlide": 1,
+    "heading": "Tour-and-Travel Activities",
+    "text": "Find best things to do and experience more!",
+    "button": "SEE ALL ACTIVITIES",
+    "src": "https://d3u4hzlr7ozpoo.cloudfront.net/assets/banner-image-things-to-do-a273c8e6efb958ca72e3c439a991f2eb.jpg"
+  },
+  "3": {
+    "dataSlide": 2,
+    "heading": "Tours",
+    "text": "Experiential journeys will make you a storyteller",
+    "button": "SHOW TOURS",
+    "src": "https://d3u4hzlr7ozpoo.cloudfront.net/assets/banner-image-tours-ef50aa6ecfaf707fcc3ac0b73f418209.jpg"
+  },
+  "4": {
+    "dataSlide": 3,
+    "heading": "Tour-and-Travel Staycations",
+    "text": "Do not forget to check out our handpicked list of attractions in Srilanka",
+    "button": "EXPLORE STAYCATIONS",
+    "id": "bgvid3",
+    "src": "https://d3u4hzlr7ozpoo.cloudfront.net/assets/banner-image-attractions-94bb1192b36f4ec0fccce53a5457fb78.jpg"
+  }
+}
