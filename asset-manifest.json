@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tour-and-travel-app/static/css/main.c5bda5a7.chunk.css",
+    "main.js": "/tour-and-travel-app/static/js/main.78e2da0d.chunk.js",
+    "main.js.map": "/tour-and-travel-app/static/js/main.78e2da0d.chunk.js.map",
+    "runtime~main.js": "/tour-and-travel-app/static/js/runtime~main.80d85ef7.js",
+    "runtime~main.js.map": "/tour-and-travel-app/static/js/runtime~main.80d85ef7.js.map",
+    "static/js/2.60e46ddf.chunk.js": "/tour-and-travel-app/static/js/2.60e46ddf.chunk.js",
+    "static/js/2.60e46ddf.chunk.js.map": "/tour-and-travel-app/static/js/2.60e46ddf.chunk.js.map",
+    "index.html": "/tour-and-travel-app/index.html",
+    "precache-manifest.5309f5ebdd2955c1e6196bd7f09b613a.js": "/tour-and-travel-app/precache-manifest.5309f5ebdd2955c1e6196bd7f09b613a.js",
+    "service-worker.js": "/tour-and-travel-app/service-worker.js",
+    "static/css/main.c5bda5a7.chunk.css.map": "/tour-and-travel-app/static/css/main.c5bda5a7.chunk.css.map"
+  }
+}
