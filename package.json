@@ -22,7 +22,7 @@
     "deploy": "gh-pages -d build"
   },
   "devDependencies": {
-    "ajv": "^6.10.2",
+    "ajv": "^6.12.3",
     "gh-pages": "^2.0.1",
     "react-alice-carousel": "^1.15.2"
   },
